@@ -1,0 +1,4 @@
+﻿  SaveGame.cpp
+c:\users\s199093\source\repos\codedesign\codedesign\savegame.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s199093\source\repos\codedesign\codedesign\savegame.cpp(31): warning C4101: 'choice': unreferenced local variable
+  CodeDesign.vcxproj -> C:\Users\s199093\source\repos\CodeDesign\Debug\CodeDesign.exe
